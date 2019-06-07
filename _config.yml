@@ -1,11 +1,11 @@
-title: Parchment
-author: pro-panda
-subtitle: A minimal jekyll theme
+title: noislawps.github.io
+author: noislawps
+subtitle: I like coffee
 
-url: "https://www.pro-panda.tech"
-baseurl: "/parchment"
+url: "https://www.noislawps.github.io"
+baseurl: "/blogs"
 
-footer_url: "https://github.com/pro-panda"
+footer_url: "https://github.com/noislawps"
 footer_text: "Theme by pro-panda"
 
 profile-picture: assets/profile.jpg
